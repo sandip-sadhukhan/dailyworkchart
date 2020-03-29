@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+#header nav {
+	background: #00d2d3 !important;
+}
+body {
+	background: #dfe6e9;
+	font-family: "Roboto", sans-serif;
+}
+#cardInput {
+	margin: 16px auto !important;
+}
+#cardInput .card {
+	border-radius: 15px;
+}
+#showGraph {
+	display: block;
+}
+#preloader {
+	display: block;
+}
