@@ -22,3 +22,8 @@ body {
 #preloader {
   display: none;
 }
+@media screen and (max-width: 600px) {
+  .brand-logo {
+    font-size: 20px !important;
+  }
+}
